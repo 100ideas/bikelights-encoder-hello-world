@@ -10,6 +10,9 @@
  */
 
 #include <Encoder.h>
+#include <MyKnob.h>
+
+// MyKnob KnobledgeIsPower(1, 2);
 
 // Change these pin numbers to the pins connected to your encoder.
 //   Best Performance: both pins have interrupt capability
